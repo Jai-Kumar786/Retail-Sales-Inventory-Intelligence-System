@@ -1,0 +1,19 @@
+region,brand_name,total_units_sold,net_sales
+CA,Trek,82,224575.2625
+CA,Electra,271,109081.0759
+CA,Surly,87,85773.9433
+CA,Heller,19,21835.9647
+CA,"Pure Cycles",51,19929.2900
+CA,Ritchey,17,11767.3431
+NY,Trek,277,733444.5115
+NY,Electra,796,308513.2486
+NY,Surly,274,291408.3275
+NY,"Pure Cycles",174,69675.2200
+NY,Heller,49,56881.8294
+NY,Ritchey,61,40394.4614
+TX,Trek,38,101295.6595
+TX,Surly,53,54095.5772
+TX,Electra,118,45600.9559
+TX,Heller,12,14478.0504
+TX,"Pure Cycles",28,11044.8400
+TX,Ritchey,12,8219.8904
